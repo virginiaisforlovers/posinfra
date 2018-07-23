@@ -1,6 +1,6 @@
 # POS APP Infrastructure module
 
-This module provide basic infrastructure specfic POS automation projects
+This module provide basic infrastructure specific POS automation projects
 
 ## Getting Started
 
